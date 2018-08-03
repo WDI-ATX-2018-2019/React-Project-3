@@ -74,10 +74,6 @@ For this project, work with your team to build a creative product that you actua
 
 If you're struggling to come up with your own project ideas, checkout [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or [requestforstartup.co](https://requestforstartup.co/).
 
-### Evaluation and Submission
-
-[See the requirements for the contents of the submission here.](evaluation.md)
-
 
 ---
 
