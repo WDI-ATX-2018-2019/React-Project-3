@@ -9,7 +9,7 @@ You will build an app with three major components:
 
 1. An API of your own design, built using Node, Express, and Mongoose, that serves JSON.
 2. Front-end React code that updates the UI and makes requests to the API.
-3. Consume a third Party API (google maps, weather, spotify, instagram, etc...)
+3. Consume a third Party API (google maps, weather, spotify, instagram, etc...)[some cool APIS](https://github.com/TonnyL/Awesome_APIs)
 
 ---
 
@@ -89,9 +89,11 @@ You should only attempt these bonuses if and only if you've satisfied project re
 
 #### Impliment Pagination
 
-#### OAUTH
-
+easier
 #### JSON web tokens
+
+harder
+#### OAUTH [oauth module](https://github.com/jaredhanson/oauth2orize)
 
 #### try to use [react-strap](https://reactstrap.github.io/) to style your app
 
