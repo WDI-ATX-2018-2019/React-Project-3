@@ -21,7 +21,7 @@ You will build an app with three major components:
 #### Planning Requirements/ Proposals
   - Clearly defined user stories for your MVP
   - Wireframes
-  - Readme in your front-end repo including links to the above and a description of what your project is, why you chose to make it/what problem it olves, technologies used, installation requirements, the contributors, etc.
+  - Readme in your front-end repo including links to the above and a description of what your project is, why you chose to make it/what problem it solves, technologies used, installation requirements, the contributors, etc.
   - Readme in your back-end repo describing your API endpoints and how to use them (look at other API references for guidance). 
 
 #### Back-End (API) Requirements
