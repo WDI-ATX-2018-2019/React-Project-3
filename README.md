@@ -10,7 +10,7 @@ You will build an app with three major components:
 
 1. An API of your own design, built using Node, Express, and Mongoose, that serves JSON.
 2. Front-end React code that updates the UI and makes requests to your API back end.
-3. Consume a third Party API (google maps, weather, spotify, government data, instagram, news, stocks, etc... possibilities are bascially endless). [Here's a bunch of cool APIs.](https://github.com/TonnyL/Awesome_APIs)
+3. Consume a third party API (google maps, weather, spotify, government data, instagram, news, stocks, etc... possibilities are bascially endless). [Here's a bunch of cool APIs.](https://github.com/TonnyL/Awesome_APIs)
 
 ---
 
@@ -21,8 +21,8 @@ You will build an app with three major components:
 #### Planning Requirements/ Proposals
   - Clearly defined user stories for your MVP
   - Wireframes
-  - Readme in your front-end repo including links to the above and a description of what your project is, why you made it, technologies used, installation requirements, the contributors, 
-  - Readme in your back-end repo describing your API endpoints and how to use them (look at other API references for guidance)
+  - Readme in your front-end repo including links to the above and a description of what your project is, why you chose to make it/what problem it olves, technologies used, installation requirements, the contributors, etc.
+  - Readme in your back-end repo describing your API endpoints and how to use them (look at other API references for guidance). 
 
 #### Back-End (API) Requirements
   - Node, Express, and some type of database (MongoDB) with at least 1 model. No associations are required. 
@@ -33,7 +33,7 @@ You will build an app with three major components:
   - It must communicate with the back end API RESTfully to Create, Read, Update, and Destroy resources, using fetch.
 
 #### Overall Requirements
-  - Your app (either the front end or the back end) should consume a third Party API.
+  - Your app (either the front end or the back end) must consume at least one third Party API.
 
 #### Deployment
   - Your API must be deployed to Heroku and your front-end must be deployed to Heroku or Surge.
@@ -87,15 +87,15 @@ If you're struggling to come up with your own project ideas, checkout [r/startup
 
 You should only attempt these bonuses if and only if you've satisfied project requirements.
 
-#### Write some routes that use query parameters in your api (e.g. `/cats?color="red"`, figure out how that works
+#### Write some routes that use query parameters in your api (e.g. `/cats?color="red"`...figure out how that works
 
-#### Implement pagination in your API
+#### Implement pagination in your API (you could do this with query parameters or URL parameters)
 
 ### Easier
 
 #### Use semantic-ui to style your app. 
 
-#### JSON web tokens (JWT)
+#### JSON web tokens (JWT) for authentication
 
 ### Harder
 
@@ -106,7 +106,5 @@ You should only attempt these bonuses if and only if you've satisfied project re
 #### Create cool animations 
 
 #### Authenticate with Firebase
-
-
 
 
