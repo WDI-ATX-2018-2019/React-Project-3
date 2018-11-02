@@ -87,24 +87,24 @@ If you're struggling to come up with your own project ideas, checkout [r/startup
 
 You should only attempt these bonuses if and only if you've satisfied project requirements.
 
-#### Write some routes that use query parameters in your api (e.g. `/cats?color="red"`...figure out how that works
+* Write some routes that use query parameters in your api (e.g. `/cats?color="red"`...figure out how that works
 
-#### Implement pagination in your API (you could do this with query parameters or URL parameters)
+* Implement pagination in your API (you could do this with query parameters or URL parameters)
 
 ### Easier
 
-#### Use semantic-ui to style your app. 
+* Use semantic-ui to style your app. 
 
-#### JSON web tokens (JWT) for authentication
+* JSON web tokens (JWT) for authentication
 
 ### Harder
 
-#### OAUTH [oauth module](https://github.com/jaredhanson/oauth2orize)
+* OAUTH [oauth module](https://github.com/jaredhanson/oauth2orize)
 
-#### Use [react-strap](https://reactstrap.github.io/) to style your app
+* Use [react-strap](https://reactstrap.github.io/) to style your app
 
-#### Create cool animations 
+* Create cool animations 
 
-#### Authenticate with Firebase
+* Authenticate with Firebase
 
 
