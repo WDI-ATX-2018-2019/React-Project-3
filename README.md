@@ -4,7 +4,7 @@
 
 ### Overview
 
-While your last project taught you how to get started with writing a fullstack application in JavaScript using Express, Mongoose, and Node, this project will have you building another full stack application, but this time with a React front-end.
+While your last project taught you how to get started with writing a fullstack application in JavaScript using Express, Postgres, and Node without the views layer, this project will have you building the React front-end for the previous project.
 
 You will build an app with three major components:
 
@@ -20,19 +20,15 @@ You will build an app with three major components:
 
 #### Planning Requirements/ Proposals
   - Clearly defined user stories for your MVP
-  - Wireframes
+  - Wireframes and List of components
   - Readme in your front-end repo including links to the above and a description of what your project is, why you chose to make it/what problem it solves, technologies used, installation requirements, the contributors, etc.
   - Readme in your back-end repo describing your API endpoints and how to use them (look at other API references for guidance). 
-
-#### Back-End (API) Requirements
-  - Node, Express, and some type of database (MongoDB) with at least 1 model. No associations are required. 
-  - Must have Create, Read, Update, and Destroy functionality.
 
 #### Front-End Requirements
   - React front end that consumes your backend API.
   - It must communicate with the back end API RESTfully to Create, Read, Update, and Destroy resources, using fetch.
 
-#### Overall Requirements
+#### Overall RequirementsRequirements
   - Your app (either the front end or the back end) must consume at least one third Party API.
 
 #### Deployment
@@ -45,11 +41,12 @@ You will build an app with three major components:
 
 ##### Auth and React Router 
 
-- You're not required to do authentication or React Router
+- You're not required to do authentication
+- You must use the basic React Router package
 
 ### App Organization
 
-You should build your application in completely separate repositories, one for your React front-end and another for your Node-Express-Mongoose API.
+You should build your application in completely separate repositories, one for your React front-end and another for your Node-Express-Mongoose API. This is called decoupled application.
 
 ---
 
@@ -66,20 +63,11 @@ You should build your application in completely separate repositories, one for y
 
 ### Code
 
-* **Keep your code DRY** and build your API RESTful.
+* **Keep your code DRY** 
 * **Be consistent** with your code style. (Pick single or double quotes, either put a space between `) {` or don't).
 * **Commit early; commit often.** Don't be afraid to break something because you can always go back in time to a previous version (so long as you're committing often).
 * **Name things appropriately.  Comment as necessary.** Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting)).  Even if it's obvious, comments can help to explain the intent -- the what and why.  This allows the next developer (which could even be you in a few months) to understand the purpose and decide what can be adjusted to achieve the same goal.
 * **Ensure it is well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?  Organizing the hierarchy is key to understanding.
-
----
-
-### Project Ideas
-
-For this project, work with your team to build a creative product that you actually think someone will want to use.
-
-If you're struggling to come up with your own project ideas, checkout [r/startup_ideas](https://www.reddit.com/r/Startup_Ideas/) on reddit or [requestforstartup.co](https://requestforstartup.co/).
-
 
 ---
 
